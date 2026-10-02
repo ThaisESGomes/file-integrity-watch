@@ -1,0 +1,21 @@
+{
+  "clean_exit": 0,
+  "changed_exit": 1,
+  "report": {
+    "added": [
+      "new.txt"
+    ],
+    "removed": [
+      "obsolete.txt"
+    ],
+    "modified": [
+      "config.txt"
+    ],
+    "skipped": [],
+    "summary": {
+      "added": 1,
+      "removed": 1,
+      "modified": 1
+    }
+  }
+}
